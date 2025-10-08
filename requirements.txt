@@ -1,0 +1,4 @@
+To ensure the entire team is running the exact same versions of python libraries for consistency in our project, please install the following packages using pip:
+pandas==1.5.3 # For data manipulation and analysis
+numpy==1.24.3  # For numerical operations and array handling
+matplotlib==3.10.3 # For data visualization and plotting 

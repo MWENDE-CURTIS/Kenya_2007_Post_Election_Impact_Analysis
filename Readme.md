@@ -6,9 +6,8 @@ This project was developed by the following five-member team:
 VALERY MWENDE MWITI
 0743447143
 
-Member2Name
-PhoneNumber
-
+MARK GICHUHI
+0712098136
 Member3Name
 PhoneNumber
 

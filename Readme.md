@@ -8,14 +8,15 @@ VALERY MWENDE MWITI
 
 MARK GICHUHI
 0712098136
-Member3Name
-PhoneNumber
 
-Member4Name
-PhoneNumber
+SARAH KAGIA
+0708514673
 
-Member5Name
-PhoneNumber
+KEITH MUREGA
+0707451296
+
+KUNTAI NATHAN
+0757680399
 
 
 Repository Structure
